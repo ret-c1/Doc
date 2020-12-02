@@ -1,0 +1,8 @@
+# Don't check auto-generated stuff into git
+coverage
+
+# Cruft
+.DS_Store
+.idea
+dependency-check**
+.history
